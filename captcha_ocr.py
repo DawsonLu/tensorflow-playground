@@ -36,3 +36,10 @@ print("Number of images found: ", len(images))
 print("Number of labels found: ", len(labels))
 print("Number of unique characters: ", len(characters))
 print("Characters present: ", characters)
+
+# Batch size for training and validation
+batch_size = 16
+
+# Desired image dimensions
+img_width = 200
+img_height = 50

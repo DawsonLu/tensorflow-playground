@@ -1,3 +1,9 @@
+################################################################################
+## Machine Learning Model that Classifies Images of Clothing
+## Based on tutorial:
+## https://www.tensorflow.org/tutorials/keras/classification
+################################################################################
+
 # TensorFlow and tf.keras
 import tensorflow as tf
 

@@ -1,3 +1,9 @@
+################################################################################
+## Machine Learning Model that Classifies Images
+## Based on tutorial:
+## https://www.tensorflow.org/tutorials/quickstart/beginner#load_a_dataset
+################################################################################
+
 import tensorflow as tf
 
 # Check TensorFlow version
